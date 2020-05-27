@@ -1,0 +1,35 @@
+{
+  "name": "mongodb-crud-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cors": "^2.8.5",
+    "ejs": "^2.7.1",
+    "express": "^4.16.4",
+    "jwt-decode": "^2.2.0",
+    "jwt-then": "^1.0.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.2.15",
+    "mongoose-relationship": "^0.1.5",
+    "randomcolor": "^0.5.4",
+    "twilio": "^3.39.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.0"
+  }
+}
