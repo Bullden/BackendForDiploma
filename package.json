@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "jwt-decode": "^2.2.0",
     "jwt-then": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.2.15",
     "mongoose-relationship": "^0.1.5",
     "randomcolor": "^0.5.4",
